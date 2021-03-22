@@ -33,6 +33,7 @@ separate template for text:
             'text_body':  'rest_registration/register/body.txt',
             'html_body':  'rest_registration/register/body.html',
         },
+        
 
         ...
     }
