@@ -34,5 +34,5 @@ separate template for text:
             'html_body':  'rest_registration/register/body.html',
         },
 
-        ...
+        ....
     }
